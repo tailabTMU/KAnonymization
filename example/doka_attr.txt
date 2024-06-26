@@ -1,0 +1,5 @@
+SEX,AGE,MARST,RACE,BPL,HIGRADE,CLASSWKRD,OCCSCORE
+Categorical,Numerical,Categorical,Categorical,Categorical,Numerical,Categorical,Categorical
+1,16,1,1,1,4,13,4
+2,90,6,7,430,20,29,79
+1,1,1,1,1,1,1,1

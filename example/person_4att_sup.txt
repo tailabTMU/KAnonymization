@@ -1,0 +1,5 @@
+AGE,SEX,INJ_SEV,DRINKING
+Integer,Integer,Integer,Integer
+1,1,0,0
+100,2,6,1
+1,1,1,1
